@@ -1,0 +1,8 @@
+lenguage: java
+
+build:
+    script: "mvn install-B"
+    
+script:
+    - gulp deploy
+    
